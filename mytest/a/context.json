@@ -1,0 +1,17 @@
+{
+  "namespace": "a",
+  "beans": [
+    {
+      "id": "a1",
+      "func": "a1",
+      "lazy": true,
+      "scope": "singleton"
+    },
+    {
+      "id": "a2",
+      "func": "a2",
+      "lazy": true,
+      "scope": "singleton"
+    }
+  ]
+}

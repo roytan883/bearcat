@@ -1,6 +1,6 @@
 {
   "name": "bearcat-rt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Magic, self-described javaScript objects build up elastic, maintainable front-backend javaScript applications",
   "main": "index.js",
   "bin": "./bin/bearcat-bin.js",
@@ -26,16 +26,7 @@
     "asynchronous script loading",
     "magic, self-described javaScript objects"
   ],
-  "dependencies": {
-    "chokidar": "~1.0.1",
-    "commander": "2.x",
-    "lodash": "4.17.4",
-    "pomelo-logger": "0.1.x"
-  },
-  "browser": {
-    "pomelo-logger": "./shim/logger.js",
-    "chokidar": "./shim/chokidar.js"
-  },
+  "dependencies": {},
   "author": "fantasyni",
   "license": "MIT",
   "devDependencies": {

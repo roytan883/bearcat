@@ -1,0 +1,6 @@
+{
+  "name": "mytest",
+  "imports": [
+    "./a/context.json"
+  ]
+}
